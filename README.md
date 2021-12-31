@@ -59,15 +59,24 @@ Now we have to create an environment where we can use our json as an API in our 
 
 Creating the package.json file which is going to have the configuration of out API:
 
-(npm init)
+```sh
+npm init
 
-We are going to need the [`./package-lock.json`](package-lock.json), so we have to use:
+```
 
-(npm i)
+We are going to need the [package-lock.json](./package-lock.json), so we have to use:
 
-Installing server, make sure that we can see the dependency in our [`./package.json`](package.json) file once is installed:
+```sh
+npm i
 
-(npm install json-server)
+```
+
+Installing server, make sure that we can see the dependency in our [package.json](./package.json) file once is installed:
+
+```sh
+npm install json-server
+
+```
 
 We have to create a new script in the file to run the server file that we created before like so:
 
@@ -82,8 +91,11 @@ We have to create a new script in the file to run the server file that we create
 
 Setting the file to use as endpoint, we can check it in the URL that this command should show us:
 
-(json-server --watch quotes.json)
+```sh
+json-server --watch quotes.json
+
+```
 
 ## 4. Heroku deployment
 
-[https://devcenter.heroku.com/articles/heroku-cli](Download link)
+[Download link](https://devcenter.heroku.com/articles/heroku-cli)
