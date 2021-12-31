@@ -1,0 +1,2 @@
+# StoicismQuotesAPI
+Stoicism Quotes API
