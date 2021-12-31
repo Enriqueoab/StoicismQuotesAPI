@@ -6,7 +6,7 @@ Now we are going to see the steps to create the project with the prerequisite ne
 
 ## 1. json file
 
-First of all we have to create our [`./quotes.json`](quotes.json) file where we are going to storage the data, the quotes in our case:
+First of all we have to create our [quotes.json](./quotes.json) file where we are going to storage the data, the quotes in our case:
 
 ```ruby
 {
@@ -61,7 +61,7 @@ Creating the package.json file which is going to have the configuration of out A
 
 (npm init)
 
-We are going to need the [./package-lock.json](package-lock.json), so we have to use:
+We are going to need the [`./package-lock.json`](package-lock.json), so we have to use:
 
 (npm i)
 
