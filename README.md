@@ -61,7 +61,7 @@ Creating the package.json file which is going to have the configuration of out A
 
 (npm init)
 
-We are going to need the [`./package-lock.json`](package-lock.json), so we have to use:
+We are going to need the [./package-lock.json](package-lock.json), so we have to use:
 
 (npm i)
 
