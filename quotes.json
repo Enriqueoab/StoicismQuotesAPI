@@ -34,6 +34,61 @@
         "id":6,
         "author": "Marcus Aurelius",
         "quote": "You have power over your mind — not outside events. Realize this, and you will find strength."
+    },
+    {
+        "id":7,
+        "author": "Marcus Aurelius",
+        "quote": "Stop drifting…Sprint to the finish. Write off your hopes, and if your well-being matters to you, be your own savior while you can."
+    },
+    {
+        "id":8,
+        "author": "Seneca",
+        "quote": "Hang on to your youthful enthusiasms — you’ll be able to use them better when you’re older."
+    },
+    {
+        "id":9,
+        "author": "Epictetus",
+        "quote": "Wealth consists not in having great possessions, but in having few wants."
+    },
+    {
+        "id":10,
+        "author": "Epictetus",
+        "quote": "If you want to improve, be content to be thought foolish and stupid."
+    },
+    {
+        "id":11,
+        "author": "Marcus Aurelius",
+        "quote": "If it is not right, do not do it; if it is not true, do not say it."
+    },
+    {
+        "id":12,
+        "author": "Seneca",
+        "quote": "Whatever can happen at any time can happen today."
+    },
+    {
+        "id":13,
+        "author": "Seneca",
+        "quote": "They lose the day in expectation of the night, and the night in fear of the dawn."
+    },
+    {
+        "id":14,
+        "author": "Seneca",
+        "quote": "Begin at once to live, and count each separate day as a separate life."
+    },
+    {
+        "id":15,
+        "author": "Epictetus",
+        "quote": "The key is to keep company only with people who uplift you, whose presence calls forth your best."
+    },
+    {
+        "id":16,
+        "author": "Marcus Aurelius",
+        "quote": "The happiness of your life depends upon the quality of your thoughts."
+    },
+    {
+        "id":17,
+        "author": "Seneca",
+        "quote": "Luck is what happens when preparation meets opportunity."
     }
 ]
 }
