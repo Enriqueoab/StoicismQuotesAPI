@@ -86,4 +86,4 @@ Setting the file to use as endpoint, we can check it in the URL that this comman
 
 ## 4. Heroku deployment
 
-[`https://devcenter.heroku.com/articles/heroku-cli`](Download link)
+[https://devcenter.heroku.com/articles/heroku-cli](Download link)
