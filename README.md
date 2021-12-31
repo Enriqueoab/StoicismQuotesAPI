@@ -98,4 +98,9 @@ json-server --watch quotes.json
 
 ## 4. Heroku deployment
 
-[Download link](https://devcenter.heroku.com/articles/heroku-cli)
+[Here](https://devcenter.heroku.com/articles/heroku-cli) we can find the way to use it properly in different environments.
+
+If everything worked properly we have to be able of get something like so 
+[running JSON server](https://stoic-quotes-app.herokuapp.com/).
+
+We have to make sure that in the resources section we can see our json file as endpoint.
