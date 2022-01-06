@@ -12,22 +12,22 @@ First of all we have to create our [quotes.json](./quotes.json) file where we ar
 {
     "quotes": [
     {
-        "id":0,
+        "id":1,
         "author": "Marcus Aurelius",
         "quote": "Waste no more time arguing what a good man should be. Be One."
     },
     {
-        "id":1,
+        "id":2,
         "author": "Marcus Aurelius",
         "quote": "You could leave life right now. Let that determine what you do and say and think."
     },
     {
-        "id":2,
+        "id":3,
         "author": "Seneca",
         "quote": "He who fears death will never do anything worth of a man who is alive."
     },
     {
-        "id":3,
+        "id":4,
         "author": "Seneca",
         "quote": "Life is very short and anxious for those who forget the past, neglect the present, and fear the future."
     },..
